@@ -1,11 +1,11 @@
 {
-    "name": "tayfunerbilen/backuphp",
+    "name": "db/backuphp",
     "description": "Backup your mysql and folders using PHP",
     "type": "library",
     "authors": [
         {
-            "name": "tayfunerbilen",
-            "email": "tayfunerbilen@gmail.com"
+            "name": "isminiz",
+            "email": "bilgi@mailiniz.com"
         }
     ],
     "minimum-stability": "stable"
