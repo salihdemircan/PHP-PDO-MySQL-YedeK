@@ -44,4 +44,5 @@ $backup = new Backup([
 $yedekle = $backup->full();
 if ($yedekle){
     echo 'Mysql ve Dosyalar Yedeklendi!';
+
 }
