@@ -2,7 +2,6 @@
 
 /**
  * Class Backup
- * @author Tayfun Erbilen
  */
 class Backup
 {
